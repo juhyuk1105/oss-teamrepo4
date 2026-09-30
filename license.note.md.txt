@@ -1,0 +1,5 @@
+MIT License
+
+Copyright (c) 2026 juhyuk1105
+
+이 라이센스를 선택한 이유는 팀 과제에 사용하기 편리하기 때문이다.
